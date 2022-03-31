@@ -5,7 +5,7 @@ tenho conhecimento nas linguagens Python , C, Java, SQL além de alguns framewor
 
 
 <h2> Minhas tecnologias</h2>
-
+![python](imagens/logo_python.png) 
 
 
 <h2> Sobre mim</h2>
