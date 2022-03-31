@@ -5,7 +5,11 @@ tenho conhecimento nas linguagens Python , C, Java, SQL além de alguns framewor
 
 
 <h2> Minhas tecnologias</h2>
-<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_python.png" title="python"> 
+<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_airflow.png" title="airflow">
+<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_docker.png" title="docker">
+<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_git.png" title="git">
+<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_github.png" title="github">
+<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_HTML.png" title="html">
 
 
 <h2> Sobre mim</h2>
