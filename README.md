@@ -5,11 +5,21 @@ tenho conhecimento nas linguagens Python , C, Java, SQL além de alguns framewor
 
 
 <h2> Minhas tecnologias</h2>
-<img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_airflow.png" title="airflow">
-<img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_docker.png" title="docker">
-<img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_git.png" title="git">
-<img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_github.png" title="github">
-<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_HTML.png" title="html">
+<div style='display:inline-block; position:relative; valign:middle; margin-right:10px'>
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/Logo_airflow.png" title="airflow">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_docker.png" title="docker">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_git.png" title="git">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_github.png" title="github">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_kafka.png" title="kafka">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_linux.png" title="linux">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_postgres.png" title="postgres">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_python.png" title="python">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/Logo_Spark.png" title="spark">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_p_bi.png" title="power BI">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_p_automate.png" title="power Automate">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_p_apps.png" title="power Apps">
+  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_terminal.png" title="shell script">
+</div>
 
 
 <h2> Sobre mim</h2>
