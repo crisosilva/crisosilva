@@ -5,7 +5,7 @@ tenho conhecimento nas linguagens Python , C, Java, SQL além de alguns framewor
 
 
 <h2> Minhas tecnologias</h2>
-![logo_python.png](https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_python.png) 
+<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_python.png" title="python"> 
 
 
 <h2> Sobre mim</h2>
