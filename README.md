@@ -5,10 +5,10 @@ tenho conhecimento nas linguagens Python , C, Java, SQL além de alguns framewor
 
 
 <h2> Minhas tecnologias</h2>
-<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_airflow.png" title="airflow">
-<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_docker.png" title="docker">
-<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_git.png" title="git">
-<img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_github.png" title="github">
+<img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_airflow.png" title="airflow">
+<img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_docker.png" title="docker">
+<img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_git.png" title="git">
+<img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_github.png" title="github">
 <img src="https://github.com/crisosilva/crisosilva/blob/5a23acdfa7ccdfc4ade98b61afb79bdc307024b2/imagens/logo_HTML.png" title="html">
 
 
