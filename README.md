@@ -10,7 +10,7 @@ tenho conhecimento nas linguagens Python , C, Java, SQL além de alguns framewor
   <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_docker.png" title="docker">
   <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_git.png" title="git">
   <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_github.png" title="github">
-  <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_kafka.png" title="kafka">
+  <i class="devicon-apachekafka-original-wordmark"></i>
   <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_linux.png" title="linux">
   <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_postgres.png" title="postgres">
   <img src="https://github.com/crisosilva/crisosilva/blob/becb2effe5c45952c01e0fe87446f74edf74cf58/imagens/logo_python.png" title="python">
